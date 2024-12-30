@@ -1,2 +1,2 @@
-def calculate_salary(employee):
+def calculate_salary(employee: str) -> int:
     return 42
